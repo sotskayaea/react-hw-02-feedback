@@ -1,11 +1,9 @@
 
 
-
-
 export const App = () => {
   return (
     <>
-      Hello world
+      Hello homeWork-2
     </>
   )
 
